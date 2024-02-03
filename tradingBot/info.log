@@ -5,3 +5,108 @@
 2024-01-17 15:35:05,049 WARNING :: This message is about something you should pay attention to
 2024-01-17 15:35:05,049 ERROR :: This message helps to debug an error that occurred in your program
 2024-01-17 15:35:05,049 INFO :: Hello from binance connector
+2024-01-29 21:27:51,571 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:27:58,371 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2024-01-29 21:28:40,701 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:28:47,311 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2024-01-29 21:30:19,400 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:30:23,696 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2024-01-29 21:31:01,634 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:31:02,357 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-29 21:46:40,293 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:46:49,965 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-29 21:47:42,081 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:47:47,386 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2024-01-29 21:50:22,039 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:50:28,422 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2024-01-29 21:58:18,574 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:58:33,333 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:59:35,873 INFO :: Binance Futures Client successfully initialized
+2024-01-29 21:59:43,710 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2024-01-29 22:04:12,833 INFO :: Binance Futures Client successfully initialized
+2024-01-29 22:04:25,296 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-29 22:05:57,316 INFO :: Binance Futures Client successfully initialized
+2024-01-29 22:06:20,270 INFO :: Binance Futures Client successfully initialized
+2024-01-29 22:06:22,483 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 15:47:10,492 INFO :: Binance Futures Client successfully initialized
+2024-01-30 15:47:12,282 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 17:20:58,212 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:21:00,965 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 17:21:47,178 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:21:50,466 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 17:22:17,507 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:22:19,886 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:22:21,938 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 17:25:58,352 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:26:02,819 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 17:52:51,217 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:52:56,223 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 17:59:26,505 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:59:32,196 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 17:59:44,589 INFO :: Binance Futures Client successfully initialized
+2024-01-30 17:59:46,571 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 18:04:08,229 INFO :: Binance Futures Client successfully initialized
+2024-01-30 18:04:13,642 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': "Timestamp for this request was 1000ms ahead of the server's time."} (error code 400)
+2024-01-30 18:05:02,793 INFO :: Binance Futures Client successfully initialized
+2024-01-30 18:05:08,519 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2024-01-30 18:38:31,935 INFO :: Binance Futures Client successfully initialized
+2024-01-30 18:39:25,084 INFO :: Binance Futures Client successfully initialized
+2024-01-30 18:39:28,080 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2024-01-30 18:43:36,647 INFO :: Binance Futures Client successfully initialized
+2024-01-30 18:43:45,229 INFO :: Binance Futures Client successfully initialized
+2024-01-30 18:43:46,104 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2024-01-30 18:44:14,523 INFO :: Binance Futures Client successfully initialized
+2024-01-30 18:52:32,573 INFO :: Binance Futures Client successfully initialized
+2024-02-01 19:41:21,340 INFO :: Binance Futures Client successfully initialized
+2024-02-01 19:43:12,174 INFO :: Binance Futures Client successfully initialized
+2024-02-01 19:43:26,092 INFO :: Binance Futures Client successfully initialized
+2024-02-01 19:44:03,012 INFO :: Binance Futures Client successfully initialized
+2024-02-01 19:44:35,650 INFO :: Binance Futures Client successfully initialized
+2024-02-01 19:45:49,386 INFO :: Binance Futures Client successfully initialized
+2024-02-01 19:49:24,475 INFO :: Binance Futures Client successfully initialized
+2024-02-02 14:44:28,589 INFO :: Websocket connected
+2024-02-02 14:44:28,589 INFO :: Binance connection opened
+2024-02-02 14:44:38,882 ERROR :: Binance connection error: 
+2024-02-02 14:44:39,430 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x1048a6f10>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-02 14:44:39,430 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-02 14:44:39,430 INFO :: tearing down on exception 
+2024-02-02 14:44:40,880 INFO :: Websocket connected
+2024-02-02 14:44:40,880 INFO :: Binance connection opened
+2024-02-02 14:45:03,700 INFO :: Websocket connected
+2024-02-02 14:45:03,700 INFO :: Binance connection opened
+2024-02-02 14:45:07,146 ERROR :: Binance connection error: 
+2024-02-02 14:45:07,693 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x100be9750>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-02 14:45:07,693 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-02 14:45:07,694 INFO :: tearing down on exception 
+2024-02-02 14:45:09,161 INFO :: Websocket connected
+2024-02-02 14:45:09,161 INFO :: Binance connection opened
+2024-02-03 14:18:18,710 INFO :: Websocket connected
+2024-02-03 14:18:18,712 INFO :: Binance connection opened
+2024-02-03 14:19:23,384 ERROR :: Binance connection error: 
+2024-02-03 14:19:23,938 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x1017c1250>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-03 14:19:23,939 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-03 14:19:23,939 INFO :: tearing down on exception 
+2024-02-03 14:19:25,686 INFO :: Websocket connected
+2024-02-03 14:19:25,686 INFO :: Binance connection opened
+2024-02-03 14:29:55,260 INFO :: Websocket connected
+2024-02-03 14:29:55,262 INFO :: Binance connection opened
+2024-02-03 14:30:09,559 ERROR :: Binance connection error: 
+2024-02-03 14:30:10,071 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x10106d250>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-03 14:30:10,072 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2024-02-03 14:30:10,072 INFO :: tearing down on exception 
+2024-02-03 14:30:11,951 INFO :: Websocket connected
+2024-02-03 14:30:11,952 INFO :: Binance connection opened
+2024-02-03 16:46:22,070 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -5000, 'msg': 'GET /fapi/v1/account is retired, please use GET /fapi/v2/account'} (error code 400)
+2024-02-03 16:46:22,075 INFO :: Binance Futures Client successfully initialized
+2024-02-03 16:46:24,102 INFO :: Websocket connected
+2024-02-03 16:46:24,103 INFO :: Binance connection opened
+2024-02-03 16:47:36,332 INFO :: Binance Futures Client successfully initialized
+2024-02-03 16:47:38,326 INFO :: Websocket connected
+2024-02-03 16:47:38,327 INFO :: Binance connection opened
+2024-02-03 16:51:42,462 ERROR :: Connection error while making GET request to /fapi/v2/account: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v2/account?timestamp=1706966502071&signature=57420312c890174d2d7677987849a47a72c0957f90a4059f8643ec05dadb7348 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1002)')))
+2024-02-03 16:51:42,465 INFO :: Binance Futures Client successfully initialized
+2024-02-03 16:51:44,647 INFO :: Websocket connected
+2024-02-03 16:51:44,648 INFO :: Binance connection opened
+2024-02-03 16:53:46,891 INFO :: Binance Futures Client successfully initialized
+2024-02-03 16:53:49,959 INFO :: Websocket connected
+2024-02-03 16:53:49,959 INFO :: Binance connection opened

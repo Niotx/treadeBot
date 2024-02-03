@@ -1,6 +1,7 @@
 import tkinter as tk
 import logging
-from tradingBot.connectors.bitmax import get_contracts
+from tradingBot.connectors.binance_futures import BinanceFuturesClient
+
 
 logger = logging.getLogger()
 
@@ -25,23 +26,10 @@ logger.addHandler(file_handler)
 
 if __name__ == '__main__':
 
-    bitmax_contracts = get_contracts()
+    binance = BinanceFuturesClient("API key",
+                                   "sec",
+                                   True)
 
     root = tk.Tk()
-    root.configure(bg="gray12")
-
-    i = 0
-    j = 0
-
-    caliber_font = ("caliber", 11, "normal")
-
-    for contract in bitmax_contracts:
-        labal_widget = tk.Label(root, text=contract, bg="gray12", fg="steelBlue", width=13, font=caliber_font)
-        labal_widget.grid(row=i, column=j)
-        if i == 4:
-            j += 1
-            i = 0
-        else:
-            i += 1
 
     root.mainloop()
