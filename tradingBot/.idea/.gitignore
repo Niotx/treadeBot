@@ -4,6 +4,7 @@
 *.log
 DS_Store
 test.py
+keys.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -62,7 +63,6 @@ cover/
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
