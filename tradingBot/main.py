@@ -2,6 +2,7 @@ import tkinter as tk
 import logging
 from tradingBot.connectors.binance_futures import BinanceFuturesClient
 from tradingBot.connectors.bitmax import BitmexClient
+from tradingBot.interface.root_component import Root
 
 
 logger = logging.getLogger()
@@ -26,10 +27,11 @@ logger.addHandler(file_handler)
 # logger.error("This message helps to debug an error that occurred in your program")
 
 if __name__ == '__main__':
-    binance = BinanceFuturesClient("YOUR_API_KEY_GOES_HERE",
-                                   "YOUR_SECRET_KEY_GOES_HERE", True)
-    bitmex = BitmexClient("YOUR_API_KEY_GOES_HERE", "YOUR_SECRET_KEY_GOES_HERE", True)
+    binance = BinanceFuturesClient("732655e0d3090c971a2166144d9bb8eeee397d49087f26ba4342045a796c385d",
+                                   "4f81ce9435301a543061a9925e3d3872e3969b9387f6974efdf2516c3ccffc0d", True)
+    bitmex = BitmexClient("t4aaDq4H0AMgin1qUs8Jm0gu", "YVQKHJveG1nAkLCCgWcw61Zn-VcLTI9ZE-hfSszuZUm7irOf", True)
 
-    root = tk.Tk()
-
+    root = Root()
     root.mainloop()
+
+

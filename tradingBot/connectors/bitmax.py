@@ -121,14 +121,15 @@ class BitmexClient:
         data['partial'] = True
         data['binSize'] = timeframe
         data['count'] = 500
+        data['reverse'] = True
 
         raw_candles = self._make_request("GET", "/api/v1/trade/bucketed", data)
 
         candles = []
 
         if raw_candles is not None:
-            for c in raw_candles:
-                candles.append(Candle(c, "bitmex"))
+            for c in reversed(raw_candles):
+                candles.append(Candle(c, timeframe, "bitmex"))
 
         return candles
 
@@ -137,11 +138,11 @@ class BitmexClient:
 
         data['symbol'] = contract.symbol
         data['side'] = side.capitalize()
-        data['orderQty'] = quantity
+        data['orderQty'] = round(quantity / contract.lot_size) * contract.lot_size
         data['ordType'] = order_type.capitalize()
 
         if price is not None:
-            data['price'] = price
+            data['price'] = round(round(quantity / contract.tick_size) * contract.tick_size, 8)
 
         if tif is not None:
             data['timeInForce'] = tif
@@ -179,7 +180,7 @@ class BitmexClient:
 
     def _start_ws(self):
         self._ws = websocket.WebSocketApp(self._wss_url, on_open=self._on_open, on_close=self._on_close,
-                                         on_error=self._on_error, on_message=self._on_message)
+                                          on_error=self._on_error, on_message=self._on_message)
 
         while True:
             try:
@@ -217,7 +218,7 @@ class BitmexClient:
                         self.prices[symbol]['bid'] = d['bidPrice']
                     if 'askPrice' in d:
                         self.prices[symbol]['ask'] = d['askPrice']
-                    print(symbol, self.prices[symbol])
+                    #print(symbol, self.prices[symbol])
 
     def subscribe_channel(self, topic: str):
         data = dict()

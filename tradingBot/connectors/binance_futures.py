@@ -105,7 +105,7 @@ class BinanceFuturesClient:
 
         if raw_candles is not None:
             for c in raw_candles:
-                candles.append(Candle(c, "binance"))
+                candles.append(Candle(c, interval, "binance"))
 
         return candles
 
@@ -142,11 +142,11 @@ class BinanceFuturesClient:
         data = dict()
         data['symbol'] = contract.symbol
         data['side'] = side
-        data['quantity'] = quantity
+        data['quantity'] = round(round(quantity / contract.lot_size) * contract.lot_size, 8)
         data['type'] = order_type
 
         if price is not None:
-            data['price'] = price
+            data['price'] = round(round(price / contract.tick_size) * contract.tick_size, 8)
 
         if tif is not None:
             data['timeInForce'] = tif

@@ -297,3 +297,280 @@
 2024-02-08 11:44:35,695 INFO :: Bitmex Client successfully initialized
 2024-02-08 11:44:36,378 INFO :: Websocket connected
 2024-02-08 11:44:36,378 INFO :: Bitmex connection opened
+2024-02-08 11:59:28,302 INFO :: Binance Futures Client successfully initialized
+2024-02-08 11:59:30,844 INFO :: Websocket connected
+2024-02-08 11:59:30,845 INFO :: Binance connection opened
+2024-02-08 12:00:39,613 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:00:41,220 INFO :: Websocket connected
+2024-02-08 12:00:41,221 INFO :: Binance connection opened
+2024-02-08 12:01:23,472 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:01:25,103 INFO :: Websocket connected
+2024-02-08 12:01:25,103 INFO :: Binance connection opened
+2024-02-08 12:03:10,275 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:03:12,012 INFO :: Websocket connected
+2024-02-08 12:03:12,013 INFO :: Binance connection opened
+2024-02-08 12:03:12,564 INFO :: Bitmex Client successfully initialized
+2024-02-08 12:03:13,289 INFO :: Websocket connected
+2024-02-08 12:03:13,289 INFO :: Bitmex connection opened
+2024-02-08 12:03:25,788 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:03:27,014 INFO :: Bitmex Client successfully initialized
+2024-02-08 12:03:27,191 INFO :: Websocket connected
+2024-02-08 12:03:27,191 INFO :: Binance connection opened
+2024-02-08 12:03:27,803 INFO :: Websocket connected
+2024-02-08 12:03:27,803 INFO :: Bitmex connection opened
+2024-02-08 12:14:33,319 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:14:34,561 INFO :: Bitmex Client successfully initialized
+2024-02-08 12:14:34,959 INFO :: Websocket connected
+2024-02-08 12:14:34,959 INFO :: Binance connection opened
+2024-02-08 12:48:03,724 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:48:05,125 INFO :: Bitmex Client successfully initialized
+2024-02-08 12:48:05,398 INFO :: Websocket connected
+2024-02-08 12:48:05,399 INFO :: Binance connection opened
+2024-02-08 12:48:05,985 INFO :: Websocket connected
+2024-02-08 12:48:05,986 INFO :: Bitmex connection opened
+2024-02-08 12:49:14,582 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:49:15,904 INFO :: Bitmex Client successfully initialized
+2024-02-08 12:49:16,086 INFO :: Websocket connected
+2024-02-08 12:49:16,086 INFO :: Binance connection opened
+2024-02-08 12:49:16,477 INFO :: Websocket connected
+2024-02-08 12:49:16,477 INFO :: Bitmex connection opened
+2024-02-08 12:51:56,921 INFO :: Binance Futures Client successfully initialized
+2024-02-08 12:51:58,509 INFO :: Bitmex Client successfully initialized
+2024-02-08 12:51:58,607 INFO :: Websocket connected
+2024-02-08 12:51:58,608 INFO :: Binance connection opened
+2024-02-08 12:51:59,156 INFO :: Websocket connected
+2024-02-08 12:51:59,156 INFO :: Bitmex connection opened
+2024-02-08 13:41:56,909 INFO :: Binance Futures Client successfully initialized
+2024-02-08 13:41:58,378 INFO :: Bitmex Client successfully initialized
+2024-02-08 13:41:58,660 INFO :: Websocket connected
+2024-02-08 13:41:58,660 INFO :: Binance connection opened
+2024-02-08 13:41:58,865 INFO :: Websocket connected
+2024-02-08 13:41:58,866 INFO :: Bitmex connection opened
+2024-02-08 13:42:08,887 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 13:42:08,889 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 13:42:08,889 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x101fae750>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 13:42:08,889 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 13:42:10,937 INFO :: Binance Futures Client successfully initialized
+2024-02-08 13:42:11,891 INFO :: Bitmex Client successfully initialized
+2024-02-08 13:42:12,467 INFO :: Websocket connected
+2024-02-08 13:42:12,467 INFO :: Bitmex connection opened
+2024-02-08 13:42:12,768 INFO :: Websocket connected
+2024-02-08 13:42:12,768 INFO :: Binance connection opened
+2024-02-08 13:42:22,771 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 13:42:22,772 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 13:42:22,772 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x101872750>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 13:42:22,772 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 13:42:26,333 INFO :: Websocket connected
+2024-02-08 13:42:26,333 INFO :: Binance connection opened
+2024-02-08 13:42:36,339 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 13:42:36,341 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 13:42:38,346 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:40,353 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:42,358 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:44,360 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:46,363 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:48,365 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:50,371 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:52,374 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:54,377 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:56,383 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:42:58,387 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:00,390 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:02,391 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:04,396 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:06,400 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:08,403 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:10,406 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:12,412 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:14,417 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:16,418 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:18,420 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:20,425 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:22,431 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:24,436 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:26,439 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:28,445 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:30,450 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:32,456 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:34,461 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:36,462 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:38,463 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:40,468 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:42,470 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:44,473 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:46,474 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:48,475 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:50,480 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:52,485 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:54,491 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:56,495 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:43:58,498 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:00,502 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:02,504 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:04,506 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:06,507 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:08,509 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:10,513 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:12,514 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:14,519 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:16,522 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:18,526 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:20,530 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:22,531 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:24,536 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:26,537 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:28,542 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:30,544 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:32,548 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:34,549 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:36,551 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:38,554 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:40,557 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:42,558 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:44,562 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:46,563 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:48,565 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:50,499 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:52,504 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:54,510 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:56,514 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:44:58,520 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:00,521 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:02,526 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:04,530 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:06,533 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:08,534 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:10,540 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:12,541 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:14,543 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:16,545 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:18,550 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:20,552 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:22,557 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:24,558 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:26,560 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:28,565 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:45:30,569 ERROR :: Binance error in run_forever() method: socket is already opened
+2024-02-08 13:55:57,620 INFO :: Binance Futures Client successfully initialized
+2024-02-08 13:55:59,231 INFO :: Bitmex Client successfully initialized
+2024-02-08 13:55:59,476 INFO :: Websocket connected
+2024-02-08 13:55:59,476 INFO :: Binance connection opened
+2024-02-08 13:55:59,969 INFO :: Websocket connected
+2024-02-08 13:55:59,970 INFO :: Bitmex connection opened
+2024-02-08 13:56:09,483 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 13:56:09,483 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 13:56:09,484 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x1016aa750>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 13:56:09,484 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 15:39:28,027 INFO :: Binance Futures Client successfully initialized
+2024-02-08 15:39:29,252 INFO :: Bitmex Client successfully initialized
+2024-02-08 15:39:29,719 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid orderQty', 'name': 'ValidationError'}} (error code 400)
+2024-02-08 15:39:29,985 INFO :: Websocket connected
+2024-02-08 15:39:29,985 INFO :: Binance connection opened
+2024-02-08 15:39:29,986 INFO :: Websocket connected
+2024-02-08 15:39:29,986 INFO :: Bitmex connection opened
+2024-02-08 15:39:55,481 INFO :: Binance Futures Client successfully initialized
+2024-02-08 15:39:56,560 INFO :: Bitmex Client successfully initialized
+2024-02-08 15:39:57,040 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid orderQty', 'name': 'ValidationError'}} (error code 400)
+2024-02-08 15:39:57,041 INFO :: Websocket connected
+2024-02-08 15:39:57,249 INFO :: Binance connection opened
+2024-02-08 15:39:57,251 INFO :: Websocket connected
+2024-02-08 15:39:57,251 INFO :: Bitmex connection opened
+2024-02-08 15:40:07,255 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 15:40:07,257 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 15:40:07,257 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x10310f1d0>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 15:40:07,257 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 15:40:10,905 INFO :: Websocket connected
+2024-02-08 15:40:10,905 INFO :: Binance connection opened
+2024-02-08 15:41:02,818 INFO :: Binance Futures Client successfully initialized
+2024-02-08 15:41:04,410 INFO :: Websocket connected
+2024-02-08 15:41:04,410 INFO :: Binance connection opened
+2024-02-08 15:41:04,529 INFO :: Bitmex Client successfully initialized
+2024-02-08 15:41:05,080 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid orderQty', 'name': 'ValidationError'}} (error code 400)
+2024-02-08 15:41:05,137 INFO :: Websocket connected
+2024-02-08 15:41:05,137 INFO :: Bitmex connection opened
+2024-02-08 15:41:14,413 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 15:41:14,414 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 15:41:14,414 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x10269cad0>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 15:41:14,415 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 15:41:18,059 INFO :: Websocket connected
+2024-02-08 15:41:18,059 INFO :: Binance connection opened
+2024-02-08 15:41:28,062 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 15:41:28,063 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 15:41:31,313 INFO :: Binance Futures Client successfully initialized
+2024-02-08 15:41:32,418 INFO :: Bitmex Client successfully initialized
+2024-02-08 15:41:32,831 INFO :: Websocket connected
+2024-02-08 15:41:32,831 INFO :: Binance connection opened
+2024-02-08 15:41:32,946 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid orderQty', 'name': 'ValidationError'}} (error code 400)
+2024-02-08 15:41:33,156 INFO :: Websocket connected
+2024-02-08 15:41:33,156 INFO :: Bitmex connection opened
+2024-02-08 15:41:42,840 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-08 15:41:42,842 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-08 15:41:42,842 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x102797210>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 15:41:42,843 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-08 15:41:46,403 INFO :: Websocket connected
+2024-02-08 15:41:46,404 INFO :: Binance connection opened
+2024-02-08 15:53:35,201 INFO :: Binance Futures Client successfully initialized
+2024-02-08 15:53:36,760 INFO :: Bitmex Client successfully initialized
+2024-02-08 15:53:36,946 INFO :: Websocket connected
+2024-02-08 15:53:36,947 INFO :: Binance connection opened
+2024-02-08 15:53:37,276 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid orderQty', 'name': 'ValidationError'}} (error code 400)
+2024-02-08 15:53:37,535 INFO :: Websocket connected
+2024-02-08 15:53:37,536 INFO :: Bitmex connection opened
+2024-02-11 20:31:13,022 INFO :: Binance Futures Client successfully initialized
+2024-02-11 20:31:14,404 INFO :: Bitmex Client successfully initialized
+2024-02-11 20:31:14,933 INFO :: Websocket connected
+2024-02-11 20:31:14,933 INFO :: Binance connection opened
+2024-02-11 20:31:15,500 INFO :: Websocket connected
+2024-02-11 20:31:15,500 INFO :: Bitmex connection opened
+2024-02-11 20:32:02,635 INFO :: Binance Futures Client successfully initialized
+2024-02-11 20:32:04,209 INFO :: Websocket connected
+2024-02-11 20:32:04,209 INFO :: Binance connection opened
+2024-02-11 20:32:04,259 INFO :: Bitmex Client successfully initialized
+2024-02-11 20:32:05,442 INFO :: Websocket connected
+2024-02-11 20:32:05,442 INFO :: Bitmex connection opened
+2024-02-11 21:34:18,134 INFO :: Binance Futures Client successfully initialized
+2024-02-11 21:34:20,056 INFO :: Bitmex Client successfully initialized
+2024-02-11 21:34:20,887 INFO :: Websocket connected
+2024-02-11 21:34:20,888 INFO :: Binance connection opened
+2024-02-11 21:34:20,890 INFO :: Websocket connected
+2024-02-11 21:34:20,890 INFO :: Bitmex connection opened
+2024-02-11 21:34:30,891 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-11 21:34:30,893 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-11 21:34:30,893 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x10430c850>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:34:30,893 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:34:34,632 INFO :: Websocket connected
+2024-02-11 21:34:34,632 INFO :: Binance connection opened
+2024-02-11 21:43:25,045 INFO :: Binance Futures Client successfully initialized
+2024-02-11 21:43:26,438 INFO :: Bitmex Client successfully initialized
+2024-02-11 21:43:26,667 INFO :: Websocket connected
+2024-02-11 21:43:26,667 INFO :: Binance connection opened
+2024-02-11 21:43:28,059 INFO :: Websocket connected
+2024-02-11 21:43:28,060 INFO :: Bitmex connection opened
+2024-02-11 21:43:36,673 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-11 21:43:36,673 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-11 21:43:36,674 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x106010890>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:43:36,674 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:44:32,022 INFO :: Binance Futures Client successfully initialized
+2024-02-11 21:44:33,755 INFO :: Websocket connected
+2024-02-11 21:44:33,756 INFO :: Binance connection opened
+2024-02-11 21:44:37,948 INFO :: Bitmex Client successfully initialized
+2024-02-11 21:44:38,737 INFO :: Websocket connected
+2024-02-11 21:44:38,737 INFO :: Bitmex connection opened
+2024-02-11 21:44:43,759 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-11 21:44:43,759 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-11 21:44:43,760 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x1062c4f10>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:44:43,760 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:48:23,512 INFO :: Binance Futures Client successfully initialized
+2024-02-11 21:48:25,051 INFO :: Bitmex Client successfully initialized
+2024-02-11 21:48:25,859 INFO :: Websocket connected
+2024-02-11 21:48:25,859 INFO :: Binance connection opened
+2024-02-11 21:48:26,083 INFO :: Websocket connected
+2024-02-11 21:48:26,084 INFO :: Bitmex connection opened
+2024-02-11 21:48:35,863 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-11 21:48:35,865 ERROR :: Connection to remote host was lost. - goodbye
+2024-02-11 21:48:35,866 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <tradingBot.connectors.binance_futures.BinanceFuturesClient object at 0x104e58410>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:48:35,866 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2024-02-11 21:48:39,995 INFO :: Websocket connected
+2024-02-11 21:48:39,995 INFO :: Binance connection opened
+2024-02-11 21:48:50,112 ERROR :: Binance connection error: Connection to remote host was lost.
+2024-02-11 21:48:50,114 ERROR :: Connection to remote host was lost. - goodbye
